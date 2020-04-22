@@ -44,7 +44,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
 		<org.springframework-version>4.3.23.RELEASE</org.springframework-version>
-		<shopizer.version>2.5.0</shopizer.version>
+		<shopizer.version>2.11.0</shopizer.version>
 	</properties>
 
 
