@@ -26,7 +26,7 @@
 		<coverage.lines>.00</coverage.lines>
 		<coverage.branches>.00</coverage.branches>
 		<!-- RODO change -->
-		<shopizer.version>2.5.0</shopizer.version>
+		<shopizer.version>2.11.0</shopizer.version>
 	</properties>
 
 	<dependencies>
