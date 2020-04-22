@@ -46,7 +46,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<shopizer.version>2.6.0</shopizer.version>
+		<shopizer.version>2.11.0</shopizer.version>
 	</properties>
 
 	<dependencies>
