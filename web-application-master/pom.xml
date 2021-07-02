@@ -27,7 +27,7 @@
 		<shopizer.search.version>2.6.0</shopizer.search.version>
 		<shopizer-canadapost.version>2.6.0</shopizer-canadapost.version>
 		<shopizer-shipping-distance.version>2.6.0</shopizer-shipping-distance.version>
-		<org.elasticsearch-version>6.3.1</org.elasticsearch-version>
+		<org.elasticsearch-version>6.8.15</org.elasticsearch-version>
 		<io.searchbox.jest-version>6.3.1</io.searchbox.jest-version>
 		<spring-vault-core-version>1.1.2.RELEASE</spring-vault-core-version>
 		<commons-collections4.version>4.0</commons-collections4.version>
